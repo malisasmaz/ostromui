@@ -30,4 +30,4 @@ npm run test
 # TechStack
 I use React, React Hooks, React Router and Axios for UI and http requests. I used jest and react-testing-library
 
-1. I use Axios to make HTTP request to the API(ostromapi)
+1. I use Axios to make HTTP request to the API([ostromapi](https://github.com/malisasmaz/ostromapi))
